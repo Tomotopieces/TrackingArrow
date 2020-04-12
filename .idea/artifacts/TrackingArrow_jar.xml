@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="TrackingArrow:jar">
+    <output-path>$PROJECT_DIR$/../Output</output-path>
+    <root id="archive" name="TrackingArrow.jar">
+      <element id="module-output" name="TrackingArrow" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+    </root>
+  </artifact>
+</component>
